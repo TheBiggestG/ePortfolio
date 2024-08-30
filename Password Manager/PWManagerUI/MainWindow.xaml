@@ -1,0 +1,33 @@
+﻿<Window x:Class="PWManagerUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PWManagerUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Label x:Name="Titlebar" Content="PW Manager" HorizontalAlignment="Left" Height="59" Margin="103,71,0,0" VerticalAlignment="Top" Width="463" FontSize="36"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="203,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Height="45" FontSize="20"/>
+        <TextBox x:Name="TextBox2" HorizontalAlignment="Left" Margin="203,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Height="45" FontSize="20"/>
+        <Label x:Name="Label1" Content="User:" HorizontalAlignment="Left" Margin="103,171,0,0" VerticalAlignment="Top" Width="100" Height="34" FontSize="20"/>
+        <Label x:Name="Label2" Content="PW:" HorizontalAlignment="Left" Margin="103,221,0,0" VerticalAlignment="Top" Width="100" Height="34" FontSize="20"/>
+        <Button x:Name="AuxButton" Content="New User" Margin="553,321,0,0" Click="AuxButtonSwitch" HorizontalAlignment="Left" Width="100" Height="40" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox3"  HorizontalAlignment="Left" Margin="203,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="450" Height="45" FontSize="20"/>
+        <Label x:Name="Label3" Content="PW:" HorizontalAlignment="Left" Margin="103,271,0,0" VerticalAlignment="Top" Width="95" Height="34" FontSize="20"/>
+        <Button x:Name="AuxButton2" Content="Generate?" Margin="658,273,0,0" Click="AuxButton2Switch" HorizontalAlignment="Left" Width="100" Height="40" VerticalAlignment="Top"/>
+        <Button x:Name="AuxButton3" Content="New Entry" Margin="24,10,0,0" Click="NewEntryEvent" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100"/>
+        <Button x:Name="LoginButton" Content="Log in" Margin="448,321,0,0" Click="LoginEvent" HorizontalAlignment="Left" Width="100" Height="40" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox4"  HorizontalAlignment="Left" Margin="203,321,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345" Height="45" FontSize="20"/>
+        <Label x:Name="Label4" Content="PW:" HorizontalAlignment="Left" Margin="103,324,0,0" VerticalAlignment="Top" Width="95" Height="34" FontSize="20"/>
+        <Button x:Name="ReturnButton" Content="Return" Margin="0,10,42,0" Click="ReturnEvent" Height="40" VerticalAlignment="Top" HorizontalAlignment="Right" Width="100"/>
+        <Button x:Name="RemoveEntry" Content="Delete Entry" Margin="130,10,0,0" Click="RemoveEntryEvent" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100"/>
+        <Button x:Name="RemoveUser" Content="Delete User" Margin="234,10,0,0" Click="RemoveUserEvent" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100"/>
+        <Label x:Name="LabelAux" Content="Removing oneself includes removing all passwords." HorizontalAlignment="Left" Height="49" Margin="103,122,0,0" VerticalAlignment="Top" Width="463" FontSize="20" RenderTransformOrigin="0.504,-0.332" Background="White"/>
+        <TextBox x:Name="TextBox5"  HorizontalAlignment="Left" Margin="203,371,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345" Height="45" FontSize="20"/>
+        <Label x:Name="Label5" Content="Reg. User:" HorizontalAlignment="Left" Margin="103,376,0,0" VerticalAlignment="Top" Width="100" Height="45" FontSize="20"/>
+        <TextBox x:Name="TextBox6"  HorizontalAlignment="Left" Margin="203,421,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="345" Height="45" FontSize="20"/>
+        <Label x:Name="Label6" Content="Reg. PW:" HorizontalAlignment="Left" Margin="103,426,0,0" VerticalAlignment="Top" Width="95" Height="40" FontSize="20"/>
+
+    </Grid>
+</Window>

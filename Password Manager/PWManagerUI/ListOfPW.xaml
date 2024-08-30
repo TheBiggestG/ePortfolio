@@ -1,0 +1,22 @@
+﻿<Window x:Class="PWManagerUI.ListOfPW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PWManagerUI"
+        mc:Ignorable="d"
+        Title="ListOfPW" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="MainList" Panel.ZIndex="-1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Label Content="Group:" Panel.ZIndex="10" HorizontalAlignment="Right" Width="110" Height="30" VerticalAlignment="Top" Margin="0,-4,170,0"/>
+        <ComboBox x:Name="ComboGroup" Panel.ZIndex="10" HorizontalAlignment="Right" Width="110" Height="22" VerticalAlignment="Top" Margin="0,0,115,0" DropDownClosed="ReloadContent" />
+        <Button x:Name="LogOutButton" Content="Log out" Click="LogOutEvent" Panel.ZIndex="10" HorizontalAlignment="Right" Width="110" Height="22" VerticalAlignment="Top" />
+    </Grid>
+</Window>

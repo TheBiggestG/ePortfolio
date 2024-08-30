@@ -1,0 +1,89 @@
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.AssemblyReference.cache
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.AssemblyInfoInputs.cache
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.AssemblyInfo.cs
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.CoreCompileInputs.cache
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.exe
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.deps.json
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.runtimeconfig.json
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.pdb
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.CopyComplete
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\refint\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.pdb
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.genruntimeconfig.cache
+C:\Users\Nicola Truscello\source\repos\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\ref\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.exe
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.deps.json
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.runtimeconfig.json
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.pdb
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.AssemblyReference.cache
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.AssemblyInfoInputs.cache
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.AssemblyInfo.cs
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.CoreCompileInputs.cache
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.sourcelink.json
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.CopyComplete
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\refint\APIIntegratedBot.dll
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.pdb
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.genruntimeconfig.cache
+C:\Users\Nicola Truscello\Documents\new3\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\ref\APIIntegratedBot.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.exe
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.deps.json
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.runtimeconfig.json
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\APIIntegratedBot.pdb
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.AssemblyReference.cache
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.AssemblyInfoInputs.cache
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.AssemblyInfo.cs
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.CoreCompileInputs.cache
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.sourcelink.json
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.csproj.CopyComplete
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\refint\APIIntegratedBot.dll
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.pdb
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\APIIntegratedBot.genruntimeconfig.cache
+C:\Users\bbzwadmin\Documents\new1\m294\APIIntegratedBot\APIIntegratedBot\obj\Debug\net8.0\ref\APIIntegratedBot.dll

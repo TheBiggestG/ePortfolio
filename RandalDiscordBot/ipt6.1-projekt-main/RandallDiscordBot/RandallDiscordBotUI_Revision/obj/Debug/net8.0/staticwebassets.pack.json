@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\obj\\Debug\\net8.0\\compressed\\nnqv5vrdzm.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RandallDiscordBotUI_Revision.styles.css",
+      "PackagePath": "staticwebassets\\RandallDiscordBotUI_Revision.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RandallDiscordBotUI_Revision.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RandallDiscordBotUI_Revision.props",
+      "PackagePath": "build\\RandallDiscordBotUI_Revision.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RandallDiscordBotUI_Revision.props",
+      "PackagePath": "buildMultiTargeting\\RandallDiscordBotUI_Revision.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RandallDiscordBotUI_Revision.props",
+      "PackagePath": "buildTransitive\\RandallDiscordBotUI_Revision.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

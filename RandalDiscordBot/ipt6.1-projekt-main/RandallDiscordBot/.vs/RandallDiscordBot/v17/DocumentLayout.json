@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE27DC-EBCE-47E4-8AEE-43C0B92D6385}|TestDB_API_Logic\\TestDB_API_Logic.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\testdb_api_logic\\testdb_api_logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69CE27DC-EBCE-47E4-8AEE-43C0B92D6385}|TestDB_API_Logic\\TestDB_API_Logic.csproj|solutionrelative:testdb_api_logic\\testdb_api_logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CE27DC-EBCE-47E4-8AEE-43C0B92D6385}|TestDB_API_Logic\\TestDB_API_Logic.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\testdb_api_logic\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69CE27DC-EBCE-47E4-8AEE-43C0B92D6385}|TestDB_API_Logic\\TestDB_API_Logic.csproj|solutionrelative:testdb_api_logic\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\checkforauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\checkforauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\pages\\searchuser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\pages\\searchuser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F0AA16-EDC5-49E0-8B53-B858711B8991}|RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotprogram\\controllers\\discordbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F0AA16-EDC5-49E0-8B53-B858711B8991}|RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj|solutionrelative:randalldiscordbotprogram\\controllers\\discordbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F0AA16-EDC5-49E0-8B53-B858711B8991}|RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotprogram\\old\\botapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F0AA16-EDC5-49E0-8B53-B858711B8991}|RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj|solutionrelative:randalldiscordbotprogram\\old\\botapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F0AA16-EDC5-49E0-8B53-B858711B8991}|RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F0AA16-EDC5-49E0-8B53-B858711B8991}|RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj|solutionrelative:randalldiscordbotprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\models\\complainttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\models\\complainttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\models\\discordserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\models\\discordserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\models\\discorduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\models\\discorduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|c:\\users\\aequillus_416\\documents\\gitdoc\\ipt6.1-projekt\\randalldiscordbot\\randalldiscordbotui_revision\\model\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2A5CC-A350-4B96-9770-0F05821C9E51}|RandallDiscordBotUI_Revision\\RandallDiscordBotUI_Revision.csproj|solutionrelative:randalldiscordbotui_revision\\model\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD8B97-FC5E-407D-8D52-5D20BFC0E569}|..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj|c:\\users\\aequillus_416\\desktop\\ipt6.1-projekt\\randalldiscordbot\\sqliteinserts\\models\\discorduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD8B97-FC5E-407D-8D52-5D20BFC0E569}|..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj|c:\\users\\aequillus_416\\desktop\\ipt6.1-projekt\\randalldiscordbot\\sqliteinserts\\data\\randalbotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD8B97-FC5E-407D-8D52-5D20BFC0E569}|..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj|c:\\users\\aequillus_416\\desktop\\ipt6.1-projekt\\randalldiscordbot\\sqliteinserts\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD8B97-FC5E-407D-8D52-5D20BFC0E569}|..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj|c:\\users\\aequillus_416\\desktop\\ipt6.1-projekt\\randalldiscordbot\\sqliteinserts\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD8B97-FC5E-407D-8D52-5D20BFC0E569}|..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj|c:\\users\\aequillus_416\\desktop\\ipt6.1-projekt\\randalldiscordbot\\sqliteinserts\\models\\userisinserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD8B97-FC5E-407D-8D52-5D20BFC0E569}|..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj|c:\\users\\aequillus_416\\desktop\\ipt6.1-projekt\\randalldiscordbot\\sqliteinserts\\migrations\\randalbotdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDB_API_Logic",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\TestDB_API_Logic.csproj",
+              "RelativeDocumentMoniker": "TestDB_API_Logic\\TestDB_API_Logic.csproj",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\TestDB_API_Logic.csproj",
+              "RelativeToolTip": "TestDB_API_Logic\\TestDB_API_Logic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T20:07:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADBAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-14T19:48:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchUser.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\SearchUser.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Pages\\SearchUser.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\SearchUser.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Pages\\SearchUser.razor",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAL4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:44:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T19:03:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Error.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:45:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\App.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\App.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\App.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:49:06.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\Program.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\Program.cs",
+              "RelativeToolTip": "RandallDiscordBotProgram\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAE0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:17:13.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Program.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Program.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Program.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:44:10.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalVariable.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\GlobalVariable.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\GlobalVariable.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\GlobalVariable.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\GlobalVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:56.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\_Imports.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\_Imports.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:46:07.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Login.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Pages\\Login.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:45:27.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Feedback.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Pages\\Feedback.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Feedback.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Pages\\Feedback.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T19:14:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckForAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\CheckForAuthorization.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\CheckForAuthorization.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\CheckForAuthorization.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\CheckForAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:46.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\LoginModel.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:59.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Pages\\Home.razor",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:45:28.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestDB_API_Logic\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\UnitTest1.cs",
+              "RelativeToolTip": "TestDB_API_Logic\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:31:23.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-14T19:48:49.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BotAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\Old\\BotAPI.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotProgram\\Old\\BotAPI.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\Old\\BotAPI.cs",
+              "RelativeToolTip": "RandallDiscordBotProgram\\Old\\BotAPI.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:34:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiscordBotController.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\Controllers\\DiscordBotController.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotProgram\\Controllers\\DiscordBotController.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\Controllers\\DiscordBotController.cs",
+              "RelativeToolTip": "RandallDiscordBotProgram\\Controllers\\DiscordBotController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:11:04.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\Complaint.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\Models\\Complaint.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\Complaint.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\Models\\Complaint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:47:29.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ComplaintType.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\ComplaintType.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\Models\\ComplaintType.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\ComplaintType.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\Models\\ComplaintType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:47:34.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiscordServer.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\DiscordServer.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\Models\\DiscordServer.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\DiscordServer.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\Models\\DiscordServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:47:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\UserLogin.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:47:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiscordUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\DiscordUser.cs",
+              "RelativeDocumentMoniker": "RandallDiscordBotUI_Revision\\Model\\Models\\DiscordUser.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotUI_Revision\\Model\\Models\\DiscordUser.cs",
+              "RelativeToolTip": "RandallDiscordBotUI_Revision\\Model\\Models\\DiscordUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:48:04.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DiscordUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\DiscordUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\DiscordUser.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\DiscordUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\DiscordUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:23:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RandalBotDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Data\\RandalBotDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Data\\RandalBotDbContext.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Data\\RandalBotDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Data\\RandalBotDbContext.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAUwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:34:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserLogin.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:24:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\DBController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\DBController.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\DBController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\DBController.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAArwPUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:13:43.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RandalBotDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Migrations\\RandalBotDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Migrations\\RandalBotDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Migrations\\RandalBotDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Migrations\\RandalBotDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:21:19.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserIsInServer.cs",
+              "DocumentMoniker": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserIsInServer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserIsInServer.cs",
+              "ToolTip": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserIsInServer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\Models\\UserIsInServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:24:03.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

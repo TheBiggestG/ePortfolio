@@ -1,0 +1,212 @@
+﻿@page "/search"
+@rendermode InteractiveServer
+
+@attribute [StreamRendering]
+@inherits CheckForAuthorization
+@inject GlobalVariable GlobalState
+
+@inject IHttpClientFactory ClientFactory
+@using System.Text.Json;
+
+<PageTitle>Search</PageTitle>
+
+<h1>Search</h1>
+
+<p>Search for User</p>
+
+<div style="display: grid;">
+    <div style="overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin:1%; display: inline-grid;   grid-column-start: 1;grid-column-end: 3;">
+        <div style="margin: 4%; height: 30%">
+            <EditForm Model="@searchModel" OnValidSubmit="@SearchForUser" FormName="searchForm">
+                <div style="display:grid; width: 100%; ">
+                    <InputText @bind-Value="searchModel.query" style="width:100%; grid-column-start: 1; grid-column-end: 4;" />
+                    <div class="dropdown" style="grid-column-start: 5; grid-column-end: 6; ">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Dropdown button
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            @foreach (var item in navigationItems)
+                            {
+                                <button class="dropdown-item">Action</button>
+                            }
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-secondary" style="grid-column-start: 6; grid-column-end: 7; ">Search</button>
+                </div>
+            </EditForm>
+        </div>
+        <div class="combobox-grid" style=" margin:4%; display:flex;justify-content:space-between; ">
+            <div class="combobox-grid-item" style="width:100%;">
+                <ul class="scrollable-list">
+                    @foreach (var item in navigationItems)
+                    {
+                        <li>@item.User - @item.Log - @item.Time.ToShortTimeString()</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div style="overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin:1%;display: inline-grid;   grid-column-start: 3; grid-column-end: 4;">
+
+        <div class="InfoBoxCell">
+            <div class="btn-group btn-group-toggle;" style="width:100%;" data-toggle=" buttons">
+                <button class="btn btn-secondary">Ban</button>
+                <button class="btn btn-secondary">Kick</button>
+                <button class="btn btn-secondary">Mute</button>
+            </div>
+        </div>
+
+        <div class="InfoBoxCell" style="width:100%">
+            <ul class="list-group list-group-horizontal InfoBoxCell;" style="width:100%">
+                <li class="list-group-item">Cras justo odio</li>
+                <li class="list-group-item">Dapibus ac facilisis in</li>
+            </ul>
+            <ul class="list-group list-group-horizontal InfoBoxCell;" style="width:100%">
+                <li class="list-group-item">Cras justo odio</li>
+                <li class="list-group-item">Dapibus ac facilisis in</li>
+            </ul>
+    </div>
+        <div class="combobox-grid-item InfoBoxCell">
+
+            <ul class="scrollable-list">
+                @foreach (var item in availableServers)
+                {
+                    <li>@item._name - @item._internalId</li>
+                }
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+<button @onclick="(e => GetDiscordServers())" class="btn btn-secondary">Mute</button>
+
+
+<style>
+    .combobox-grid {
+        display: grid;
+        grid-template-columns: 10% 80% 10%;
+    }
+
+    .combobox-grid-item {
+        border: 1px solid black;
+        height: 200px; /* Set a fixed height for the scrollable area */
+        overflow-y: auto; /* Enable vertical scrolling */
+    }
+
+    .scrollable-list {
+        height: 100%; /* Occupy full height of the container */
+        list-style-type: none;
+    }
+
+    .InfoBoxCell{
+        margin: 4%;
+    }
+</style>
+
+
+@code {
+    SearchModel searchModel = new SearchModel();
+    List<DiscordServer> availableServers = new List<DiscordServer>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+    }
+
+    private async Task GetDiscordServers()
+    {
+        var result = GetDiscordServers(GlobalState.BaseURLForBotAPI, GlobalState.LoginModel.Email, GlobalState.LoginModel.Password).Result;
+        if (result != null)
+            availableServers = result;
+        Console.WriteLine("Server: " + availableServers.First()._name);
+    }
+
+    private async Task SearchForUser()
+    {
+        var result = await GetDiscordUser(GlobalState.BaseURLForBotAPI, 12, "Example User 1");
+    }
+
+    async Task<DiscordUser> GetDiscordUser(string url, ulong guildID, string name)
+    {
+        HttpClient client = new HttpClient();
+        try
+        {
+            string finalURL = $"{url}/discordbot/SearchByName?guildId={guildID}&name={name}";
+            HttpResponseMessage response = client.GetAsync(finalURL).Result;
+            response.EnsureSuccessStatusCode();
+            string responseBody = await response.Content.ReadAsStringAsync();
+
+            DiscordUser user = JsonSerializer.Deserialize<DiscordUser>(responseBody, new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            });
+
+            return user;
+        }
+        catch (HttpRequestException e)
+        {
+            Console.WriteLine($"Request error: {e.Message}");
+            return null;
+        }
+    }
+
+    async Task<List<DiscordServer>> GetDiscordServers(string url, string username, string password)
+    {
+
+
+        try
+        {
+            HttpClient _client = new HttpClient();
+
+            string finalURL = $"{url}/discordbot/getserverbylogin?username={username}&password={password}";
+
+            var request = new HttpRequestMessage(HttpMethod.Get, finalURL);
+
+            var client = ClientFactory.CreateClient();
+            Console.WriteLine("Is Okay");
+            var response = await client.SendAsync(request);
+
+            Console.WriteLine("Is Okay");
+            var responseBody = await response.Content.ReadAsStreamAsync();
+            var listOfDiscordUser = JsonSerializer.DeserializeAsync<List<DiscordServer>>(responseBody, new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
+            return listOfDiscordUser.Result;
+        }
+        catch (HttpRequestException e)
+        {
+            Console.WriteLine($"Request error: {e.Message}");
+            return null;
+
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Unexpected error: {e.Message}");
+            return null;
+        }
+    }
+
+
+    public class NavigationItem
+    {
+        public string User { get; set; }
+        public string Log { get; set; }
+        public DateTime Time { get; set; }
+    }
+
+    List<NavigationItem> navigationItems = new List<NavigationItem>
+    {
+        new NavigationItem { User = "LuisGamerCool234", Log = "Was muted for Racism", Time = DateTime.Now },
+        new NavigationItem { User = "Mousemanjeff408", Log = "Was kicked for chat flooding", Time = DateTime.Now },
+        // Add more items as needed
+    };
+
+    public class SearchModel
+    {
+        public string query { get; set; }
+        public string guild { get; set; }
+    }
+}

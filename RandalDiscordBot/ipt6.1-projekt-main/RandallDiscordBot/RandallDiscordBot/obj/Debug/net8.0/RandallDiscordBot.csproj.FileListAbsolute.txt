@@ -1,0 +1,120 @@
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfoInputs.cache
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfo.cs
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.sourcelink.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.staticwebassets.runtime.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.exe
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.deps.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.runtimeconfig.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.RandallDiscordBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.build.RandallDiscordBot.props
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RandallDiscordBot.props
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RandallDiscordBot.props
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\bundle\RandallDiscordBot.styles.css
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\projectbundle\RandallDiscordBot.bundle.scp.css
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\refint\RandallDiscordBot.dll
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.genruntimeconfig.cache
+C:\Users\rss20\OneDrive - sluz\Whiteboards\Schule\Dateien\ICT\IPT 6.1\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\ref\RandallDiscordBot.dll
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.staticwebassets.runtime.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.exe
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.deps.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.runtimeconfig.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfo.cs
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.sourcelink.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.RandallDiscordBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.build.RandallDiscordBot.props
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RandallDiscordBot.props
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RandallDiscordBot.props
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\bundle\RandallDiscordBot.styles.css
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\projectbundle\RandallDiscordBot.bundle.scp.css
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\refint\RandallDiscordBot.dll
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.genruntimeconfig.cache
+C:\Users\Nicola Truscello\Documents\IPT61\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\ref\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.staticwebassets.runtime.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.exe
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.deps.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.runtimeconfig.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfo.cs
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.sourcelink.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.RandallDiscordBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.build.RandallDiscordBot.props
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RandallDiscordBot.props
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RandallDiscordBot.props
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\bundle\RandallDiscordBot.styles.css
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\projectbundle\RandallDiscordBot.bundle.scp.css
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\refint\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.genruntimeconfig.cache
+C:\Users\Aequillus_416\Desktop\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\ref\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\appsettings.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.staticwebassets.runtime.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.exe
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.deps.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.runtimeconfig.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\bin\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.AssemblyInfo.cs
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.sourcelink.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.RandallDiscordBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.build.RandallDiscordBot.props
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RandallDiscordBot.props
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RandallDiscordBot.props
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\bundle\RandallDiscordBot.styles.css
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\scopedcss\projectbundle\RandallDiscordBot.bundle.scp.css
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\refint\RandallDiscordBot.dll
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.pdb
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\RandallDiscordBot.genruntimeconfig.cache
+C:\Users\Aequillus_416\Documents\gitDoc\ipt6.1-projekt\RandallDiscordBot\RandallDiscordBot\obj\Debug\net8.0\ref\RandallDiscordBot.dll

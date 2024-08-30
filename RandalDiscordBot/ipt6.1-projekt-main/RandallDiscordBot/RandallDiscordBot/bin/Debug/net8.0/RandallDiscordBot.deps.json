@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RandallDiscordBot/1.0.0": {
+        "runtime": {
+          "RandallDiscordBot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandallDiscordBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

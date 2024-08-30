@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBot\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RandallDiscordBot.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RandallDiscordBot.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBot\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBot\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBot\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBot\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RandallDiscordBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RandallDiscordBot.props",
+      "PackagePath": "build\\RandallDiscordBot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RandallDiscordBot.props",
+      "PackagePath": "buildMultiTargeting\\RandallDiscordBot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RandallDiscordBot.props",
+      "PackagePath": "buildTransitive\\RandallDiscordBot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

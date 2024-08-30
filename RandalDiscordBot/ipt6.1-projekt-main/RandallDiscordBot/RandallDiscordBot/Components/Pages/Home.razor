@@ -1,0 +1,54 @@
+﻿@page "/"
+@inherits CheckForAuthorization
+
+<PageTitle>Home</PageTitle>
+
+<div>
+    <h1>Welcome to: My Server</h1> <!-- Server Name -->
+@*     <img src="server-image.jpg" alt="Server Image" /> <!-- Image of server --> *@
+    </div>
+    <div style="position: absolute; bottom: 0; width: 50%;  height: 50%;position: absolute;left: 50%;margin-left: -25%;top: 50%;margin-top: -50px;">
+        <div style="overflow-y: auto; border: 1px solid #ccc; padding: 10px;height: 100%;">
+        <h4>Latest Logs</h4>
+        <br />
+        @foreach (var item in navigationItems)
+        {
+                <div style="overflow-y: auto; border: 1px solid #ccc; padding: 10px;">@item.User - @item.Log - @item.Time.ToShortTimeString()</div>
+        }
+    </div>
+</div>
+
+
+<style>
+    .combobox-grid {
+        display: grid;
+        grid-template-columns: 10% 80% 10%;
+    }
+
+    .combobox-grid-item {
+        border: 1px solid black;
+        height: 200px; /* Set a fixed height for the scrollable area */
+        overflow-y: auto; /* Enable vertical scrolling */
+    }
+
+    .scrollable-list {
+        height: 100%; /* Occupy full height of the container */
+        list-style-type:none;
+    }
+</style>
+
+@code {
+    public class NavigationItem
+    {
+        public string User { get; set; }
+        public string Log { get; set; }
+        public DateTime Time { get; set; }
+    }
+
+    List<NavigationItem> navigationItems = new List<NavigationItem>
+    {
+        new NavigationItem { User = "LuisGamerCool234", Log = "Was muted for Racism", Time = DateTime.Now },
+        new NavigationItem { User = "Mousemanjeff408", Log = "Was kicked for chat flooding", Time = DateTime.Now },
+        // Add more items as needed
+    };
+}

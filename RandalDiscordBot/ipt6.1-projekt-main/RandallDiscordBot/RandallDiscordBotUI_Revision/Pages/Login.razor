@@ -1,0 +1,75 @@
+﻿@page "/login"
+@inject GlobalVariable GlobalState
+@inject NavigationManager Navigation
+
+<div>
+    <!--Title Card-->
+    <h1>Randall Discord Bot</h1>
+    <h2>Welcome</h2>
+</div>
+<br />
+<br />
+<div style="background: white;padding: 40px;border: 1px solid #ccc;width: 40%; position:absolute; left:50%;margin-left: -15%;">
+    <div style="margin-bottom: 30px;text-align: center;">
+        <h2>Login</h2>
+    </div>
+    <EditForm Model="@loginModel" OnValidSubmit="enableAuthorization" FormName="loginForm">
+        <div style="margin-bottom: 20px;">
+            <label style="display: block;margin-bottom: 8px;color: #555;" for="email">Email</label>
+            <InputText style="width: 100%;padding: 10px;border: 1px solid #ddd;" type="text" id="email" name="email" @bind-Value="@loginModel.Email" required />
+        </div>
+        <div style="margin-bottom: 20px;">
+            <label style="display: block;margin-bottom: 8px;color: #555;" for="password">Password</label>
+            <InputText style="width: 100%;padding: 10px;border: 1px solid #ddd;" type="password" id="password" name="password" @bind-Value="@loginModel.Password" required/>
+
+        </div>
+        <button type="submit" style="width: 100%;padding: 10px;border: none;background-color: #5a03fc;color: white;font-size: 16px;">
+            Login
+        </button>
+    </EditForm>
+</div>
+
+@code {
+
+
+    LoginModel loginModel = new LoginModel();
+    private async Task enableAuthorization()
+    {
+        Console.WriteLine("Button clicked!"); // Add this line to check if the method is called
+
+        Console.WriteLine($"Email: {loginModel.Email}, Password: {loginModel.Password}");
+
+        bool result = await GetUserLogins(GlobalState.BaseURLForBotAPI);
+
+        if (result)
+        {
+            GlobalState.LoginModel = loginModel;
+            GlobalState.IsSessionActive = true;
+            Navigation.NavigateTo("/");
+        }
+    }
+
+    async Task<bool> GetUserLogins(string url)
+    {
+        HttpClient client = new HttpClient();
+        try
+        {
+            string finalURL = $"{url}/discordbot/isLoginValid?username={loginModel.Email}&password={loginModel.Password}";
+            HttpResponseMessage response = await client.GetAsync(finalURL);
+            response.EnsureSuccessStatusCode();
+
+            var responseBody = await response.Content.ReadAsStringAsync();
+
+            return Convert.ToBoolean(responseBody);
+        }
+        catch (HttpRequestException e)
+        {
+            Console.WriteLine($"Request error: {e.Message}");
+            return false;
+        }
+    }
+
+
+
+
+}

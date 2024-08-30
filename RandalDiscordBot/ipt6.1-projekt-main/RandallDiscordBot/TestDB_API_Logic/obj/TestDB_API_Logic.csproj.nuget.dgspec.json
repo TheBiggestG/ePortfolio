@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\TestDB_API_Logic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj",
+        "projectName": "SQLiteInserts",
+        "projectPath": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj",
+        "packagesPath": "C:\\Users\\Aequillus_416\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aequillus_416\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1605"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj",
+        "projectName": "RandallDiscordBotProgram",
+        "projectPath": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj",
+        "packagesPath": "C:\\Users\\Aequillus_416\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aequillus_416\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj": {
+                "projectPath": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.14.1, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[3.14.1, )"
+            },
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[3.14.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\TestDB_API_Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\TestDB_API_Logic.csproj",
+        "projectName": "TestDB_API_Logic",
+        "projectPath": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\TestDB_API_Logic.csproj",
+        "packagesPath": "C:\\Users\\Aequillus_416\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\TestDB_API_Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aequillus_416\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj": {
+                "projectPath": "C:\\Users\\Aequillus_416\\Desktop\\ipt6.1-projekt\\RandallDiscordBot\\SQLiteInserts\\SQLiteInserts.csproj"
+              },
+              "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj": {
+                "projectPath": "C:\\Users\\Aequillus_416\\Documents\\gitDoc\\ipt6.1-projekt\\RandallDiscordBot\\RandallDiscordBotProgram\\RandallDiscordBotProgram.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
