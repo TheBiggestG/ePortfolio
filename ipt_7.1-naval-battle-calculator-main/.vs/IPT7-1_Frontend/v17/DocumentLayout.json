@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicola Truscello\\Documents\\ipt_7.1-naval-battle-calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5177111-E9D1-4ED7-8C3A-A4C5A0EE075B}|IPT7-1_Frontend\\IPT7-1_Frontend.csproj|c:\\users\\nicola truscello\\documents\\ipt_7.1-naval-battle-calculator\\ipt7-1_frontend\\damagealgorithmproto\\algoship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5177111-E9D1-4ED7-8C3A-A4C5A0EE075B}|IPT7-1_Frontend\\IPT7-1_Frontend.csproj|solutionrelative:ipt7-1_frontend\\damagealgorithmproto\\algoship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5177111-E9D1-4ED7-8C3A-A4C5A0EE075B}|IPT7-1_Frontend\\IPT7-1_Frontend.csproj|c:\\users\\nicola truscello\\documents\\ipt_7.1-naval-battle-calculator\\ipt7-1_frontend\\dbhandler\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5177111-E9D1-4ED7-8C3A-A4C5A0EE075B}|IPT7-1_Frontend\\IPT7-1_Frontend.csproj|solutionrelative:ipt7-1_frontend\\dbhandler\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlgoShip.cs",
+              "DocumentMoniker": "C:\\Users\\Nicola Truscello\\Documents\\ipt_7.1-naval-battle-calculator\\IPT7-1_Frontend\\DamageAlgorithmProto\\AlgoShip.cs",
+              "RelativeDocumentMoniker": "IPT7-1_Frontend\\DamageAlgorithmProto\\AlgoShip.cs",
+              "ToolTip": "C:\\Users\\Nicola Truscello\\Documents\\ipt_7.1-naval-battle-calculator\\IPT7-1_Frontend\\DamageAlgorithmProto\\AlgoShip.cs",
+              "RelativeToolTip": "IPT7-1_Frontend\\DamageAlgorithmProto\\AlgoShip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:28:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "C:\\Users\\Nicola Truscello\\Documents\\ipt_7.1-naval-battle-calculator\\IPT7-1_Frontend\\DBHandler\\DBController.cs",
+              "RelativeDocumentMoniker": "IPT7-1_Frontend\\DBHandler\\DBController.cs",
+              "ToolTip": "C:\\Users\\Nicola Truscello\\Documents\\ipt_7.1-naval-battle-calculator\\IPT7-1_Frontend\\DBHandler\\DBController.cs",
+              "RelativeToolTip": "IPT7-1_Frontend\\DBHandler\\DBController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:24:39.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
