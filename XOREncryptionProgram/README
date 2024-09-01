@@ -1,0 +1,4 @@
+XOR Encryption Program
+
+
+This Project was made for IPT 2.0 and is a simple encryption I made in order to learn Python. It encodes plain text messages into encoded ones using XOR encryption and can also decode them. It can also randomly generate keys from a range from 0 - 255.

@@ -1,95 +1,76 @@
-# Benutzerhandbuch für das Passwort-Manager-Programm
+# User Manual for the Password Manager Program
 
-### Inhaltsverzeichnis
+### Table of Contents
 
-1. Einführung
-    1.1 Über den Passwort-Manager
+1. Introduction
+    1.1 About the Password Manager
 
-2. Erste Schritte
-    2.1 Benutzerkonto erstellen
-    2.2 Anmelden und Abmelden
-    2.3 Benutzerkonto löschen
+2. Getting Started
+    2.1 Creating a User Account
+    2.2 Logging In and Out
+    2.3 Deleting a User Account
 
-3. Hauptfunktionen
-    3.1 Neue Einträge hinzufügen
-    3.2 Einträge löschen
-    3.3 Gruppen erstellen und benutzen
-    3.4 Passwörter generieren
-    3.5 Einträge anzeigen und filtern
-
-
+3. Main Features
+    3.1 Adding New Entries
+    3.2 Deleting Entries
+    3.3 Creating and Using Groups
+    3.4 Generating Passwords
+    3.5 Viewing and Filtering Entries
 
 
 
 
+## 1. Introduction
 
-## 1. Einführung
-
-1.1 Über den Passwort-Manager
-Der Passwort-Manager ist ein Programm, der Ihnen dabei hilft, Ihre Passwörter sicher zu speichern, zu organisieren und zu verwalten. Sie können sichere Passwörter generieren, Einträge nach verschiedenen Kategorien organisieren und bei Bedarf schnell darauf zugreifen.
-IPT Projekt von Russell Stansfield, Nicola Truscello und Alex Belik
+1.1 About the Password Manager
+The Password Manager is a program that helps you securely store, organize, and manage your passwords. You can generate secure passwords, organize entries by different categories, and quickly access them when needed.
 
 
+## 2. Getting Started
+
+2.1 Creating a User Account
+- To use the Password Manager, you must create a user account.
+- Click on "New User."
+- Choose a username and password to log in later.
+
+2.2 Logging In and Out
+- Log in on the main page with your credentials to access the password list.
+
+2.3 Deleting a User Account
+- To delete a user account, click on "Delete User."
+- Enter the username and password of the account you wish to delete.
+- If you want to cancel this action, click on "Return."
 
 
+## 3. Main Features
 
-## 2. Erste Schritte
-
-2.1 Benutzerkonto erstellen
-- Um den Passwort-Manager zu nutzen, müssen Sie ein Benutzerkonto erstellen. 
-- Klicken Sie auf «New User». 
-- Wählen Sie ein User Name und ein Password, um sich später anmelden zu können.
-
-2.2 Anmelden und Abmelden
-- Melden Sie sich auf der Main Seite mit Ihren Zugangsdaten an, um auf den Passwort List zuzugreifen. 
-
-2.3 Benutzerkonto Löschen
-- Um ein Benutzerkonto zu löschen, klicken Sie auf «Delete User» 
-- Geben Sie der User Name und Password, der Sie löschen wollen.
-- Wenn Sie diese Aktion abbrechen wollen, klicken Sie auf «Return»
+3.1 Adding New Entries
+- Click on "New Entry."
+- Enter the URL, username, and password or generate a secure password.
+- Select a group for the entry (optional).
+- Enter your Password Manager username and password.
+- Click on "Confirm choice" to add the entry.
+- If you want to cancel this action, click on "Return."
 
 
+3.2 Deleting Entries
+- Click on "Remove Entry."
+- Enter your Password Manager username, password, and the URL of the entry you want to delete.
+- If you want to cancel this action, click on "Return."
 
 
-
-## 3. Hauptfunktionen
-
-3.1 Neue Einträge hinzufügen
-- Klicken Sie auf "New Entry".
-- Geben Sie die URL, Benutzername und das Passwort ein oder generieren Sie ein sicheres Passwort.
-- Wählen Sie eine Gruppe für den Eintrag aus (optional).
-- Geben Sie Ihr Passwort-Manager Benutzername und Passwort ein.
-- Klicken Sie auf "Confirm choice", um den Eintrag hinzuzufügen.
-- Wenn Sie diese Aktion abbrechen wollen, klicken Sie auf «Return»
+3.3 Creating and Using Groups
+- Groups can be created during "Adding New Entries."
+- Enter a group name.
+- When the entries are displayed, you can filter them by the groups created.
+- You can organize entries into groups to keep an overview.
 
 
-3.2 Einträge löschen
-- Klicken Sie auf «Remove Entry».
-- Hier geben Sie Ihr Passwort-Manager Benutzername und Passwort ein und die URL von dem Eintrag, der Sie löschen wollen.
-- Wenn Sie diese Aktion abbrechen wollen, klicken Sie auf «Return»
+3.4 Generating Passwords
+- Click on "Generate" during "Adding New Entries," and a secure password will be generated for you.
+- Examples of generated passwords: @OwG9E&l1cT6     dTU&v*w5QR97      #@K2D&MX7Tp6
 
 
-3.3 Gruppen erstellen und benutzen
-- Gruppen können während «Neue Einträge hinzufügen» erstellt werden.
-- Geben Sie einen Gruppennamen ein.
-- Wenn die Einträge angezeigt werden, können Sie diese anhand erstellten Gruppen filtrieren.
-- Sie können Einträge in Gruppen organisieren, um die Übersicht zu behalten.
-
-
-3.4 Passwörter generieren
-- Klicken Sie auf "Generate" während «Neue Einträge hinzufügen» und ein sicheres Password wird für Sie generiert.
-- Beispiele der generierten Passwörter: @OwG9E&l1cT6     dTU&v*w5QR97      #@K2D&MX7Tp6
-
-
-3.5 Einträge anzeigen und filtern
-- Nach dem Anmelden sehen Sie eine Liste aller Ihrer Einträge.
-- Sie können die Einträge nach Gruppen filtern, um sie übersichtlicher anzuzeigen.
-
-
-
-
-
-
-
-
-
+3.5 Viewing and Filtering Entries
+- After logging in, you will see a list of all your entries.
+- You can filter the entries by groups to display them more clearly.

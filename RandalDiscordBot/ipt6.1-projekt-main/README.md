@@ -1,85 +1,83 @@
-# Projektarbeit IPT6.1
+# Project Work IPT6.1
 
-### Randall, ein Discord Bot von Nicola Truscello und Russell Stansfield
+### Randall, a Discord Bot by Nicola Truscello and Russell Stansfield
 
 ![Alt text](./DiscordLogo.png "Discord")
 
-## Inhaltsverzeichnis
+## Table of Contents
 
-
-1. [Projektidee](#projektidee)
-2. [Projektbeschrieb](#projektbeschrieb)
-3. [Architektur und Design](#architektur-und-design)
+1. [Project Idea](#project-idea)
+2. [Project Description](#project-description)
+3. [Architecture and Design](#architecture-and-design)
 4. [Prototyping](#prototyping)
 5. [Implementation](#implementation)
 6. [Testing](#testing)
-7. [Projektpräsentation](#projektpräsentation)
-8. [Fazit](#fazit)
+7. [Project Presentation](#project-presentation)
+8. [Conclusion](#conclusion)
 
 ---
 
+## Project Idea
 
-## Projektidee
+We had already programmed a Discord bot in a previous module. Discord is similar to a chatroom where users communicate with each other on a server. These chatrooms need to be moderated accordingly. We wanted to recreate the bot from scratch, but this time better and with enhanced features. This time, the bot tracks all activities and logs them, allowing it to escalate punishments appropriately.
 
-Wir hatten bereits einen Discord Bot in einem vorherigen Modul programmiert. Discord ist ähnlich zu einem Chatroom, wobei User in einem Server sind miteinander im Server kommunizieren. Diese Chatrooms muss man entsprechend moderieren. Wir wollten ihn neu erstellen, komplett von grund auf, aber diesmal besser und mit erweiterten Funktionen. Diesmal merkt sich der Bot alle tätigkeiten und hält sie fest, steigert somit die Bestrafung richtig.
+## Project Description
 
-## Projektbeschrieb
+Our project is to program a Discord bot that warns Discord users when they use banned words. These words are stored in a JSON file. Additionally, through the web app, users can manually ban, kick, mute, and warn other users by entering the chosen user. It is also possible to search for users and their logs. All data and violations by users are stored in a database, allowing the bot to take corresponding actions and apply appropriate punishments.
 
-Unser Projekt ist es, einen Discord Bot zu programmieren, der Discord-Benutzer warnt, wenn sie gebannte Wörter verwenden. Diese Wörter werden in einer JSON-Datei gespeichert. Zusätzlich kann man durch die Webapp Benutzer manuell bannen, kicken, stummschalten und warnen, indem man den gewählten Benutzer eingibt. Es ist auch möglich, nach Benutzern und ihren Logs zu suchen. Alle Daten und verstösse der User werden in einer DB festgehalten, somit kann sich der Bot an diese Tätigkeiten richten und enstsprechende Bestrafungen zufügen.
+## Architecture and Design
 
-## Architektur und Design
-
-Wir wollten das Programm in zwei Teile teilen, da wir aus Gründen der Blazor-Architektur den Frontend und Backend auf zwei Servern verteilen mussten. Diese Teile mussten durch API-Requests miteinander verlinkt werden. Dieses Problem war auch in unserem vorherigen Discordbot-Projekt vorhanden.
+We wanted to split the program into two parts because, due to Blazor's architecture, we had to distribute the frontend and backend across two servers. These parts needed to be linked together through API requests. This issue was also present in our previous Discord bot project.
 
 ## Prototyping
 
-### Randallbot Backend Prototyp
+### Randallbot Backend Prototype
 
-Russell hat einen einfachen Prototyp erstellt, bei dem der Bot nur automatisch reagieren konnte. Er konnte Benutzer mit einer Rolle stummschalten, die den Benutzern keine Rechte zum Sprechen gab. Wenn ein Benutzer ein gebanntes Wort sagte, wurde er stummgeschaltet. Dies wurde mit einem Discord-Konto namens "ScaryGonzalesGamer234" getestet, indem wir gebannte Wörter sagten. Dieses Konto wurde erfolgreich stummgeschaltet. Wenn ein Bot etwas sagte, wurde er einfach von Randall ignoriert. Wir haben dies mit einem bestehenden Bot namens Carl-Bot getestet, der nach unserem Befehl etwas sagte. Randall hat ihn einfach ignoriert.
+Russell created a simple prototype where the bot could only respond automatically. It could mute users by assigning them a role that removed their speaking privileges. If a user said a banned word, they were muted. This was tested with a Discord account named "ScaryGonzalesGamer234" by saying banned words. This account was successfully muted. If a bot said something, it was simply ignored by Randall. We tested this with an existing bot called Carl-Bot, which said something after our command. Randall simply ignored it.
 
-### RandallbotDB Prototyp
+### RandallbotDB Prototype
 
-Nicola hat eine einfache Version der heutigen Datenbank programmiert. Dies beinhaltete eine Datenbankverbindung und einfache CRUD-Operationen wie Lesen aller Tabelle und Inserts aller Tabelle, zusätzlich aller entsprechenden Klassen, ermöglicht mit Entity Framework.
+Nicola programmed a simple version of the current database. This included a database connection and basic CRUD operations such as reading all tables and inserting into all tables, along with the corresponding classes, made possible with Entity Framework.
 
 ## Implementation
 
-Die Implementierung des Projekts war schwierig, obwohl wir bereits Prototypen hatten. Viele Probleme traten beim Discord Bot auf, da wir mit einer schwer zu erlernenden API arbeiteten. Im Frontend gab es nur lösbare Probleme mit Blazor. Bei der Verlinkung gab es die meisten Probleme, da wir dies mittels API-Requests lösen mussten. Da wir es schon letztes Mal gelöst hatten, hatten wir es unterschätzt und konnten das Projekt leider nicht fertigstellen. Zumindest gab es keine Probleme bei der Datenbank.
+The implementation of the project was difficult, even though we already had prototypes. Many issues arose with the Discord bot, as we were working with a difficult-to-learn API. In the frontend, there were only solvable issues with Blazor. The most problems occurred with linking the parts, as we had to solve this through API requests. Since we had resolved this last time, we underestimated it and were unfortunately unable to complete the project. At least there were no problems with the database.
 
-### Probleme bei der Backend:
+### Backend Issues:
 
-- Probleme mit dem API-Token, da es manchmal änderte oder verschwand
-- Probleme mit dem gleichzeitigen Stummschalten von mehreren Benutzern
-- Probleme mit der Setzung von Rechten des Bots
-- Probleme mit Bannen und Kicken wegen Rechte und API
+- Problems with the API token, as it sometimes changed or disappeared.
+- Problems with muting multiple users simultaneously.
+- Problems with setting the bot's permissions.
+- Problems with banning and kicking due to permissions and API issues.
 
 ## Testing
 
-Leider konnten wir das gesamte Projekt nicht zum Laufen bringen, da Frontend, Backend und Datenbank nicht miteinander verlinkt werden konnten. Wir konnten aber die Programme einzeln testen. Bei der Datenbank waren es Unit-Tests und beim Backend waren es manuelle Tests mit bestehenden Discordbots und Discord-Konten, bei denen wir die automatischen Funktionen getestet haben.
+Unfortunately, we were unable to get the entire project running, as the frontend, backend, and database could not be linked together. However, we were able to test the programs individually. For the database, we used unit tests, and for the backend, we performed manual tests with existing Discord bots and Discord accounts to test the automated functions.
 
-## Projektpräsentation
+## Project Presentation
 
-Der Link zur Projektpräsentation befindet sich im Ordner "Dokumentation".
+The link to the project presentation can be found in the "Documentation" folder.
 
-## Fazit
+## Conclusion
 
-### Erfolge
+### Successes
 
-- Verbesserte Funktionalität: Im Vergleich zu unserem vorherigen Discord-Bot haben wir deutlich erweiterte Funktionen implementiert, einschließlich automatischer und manueller Benutzerverwaltung durch Warnungen, Bans, Kicks und Stummschaltungen.
-- Stabilen Datenbank: Dank Nicola hatten wir eine Datenbank, verschiedene CRUD operationen und eine Datenbankverbindung.
+- **Improved Functionality:** Compared to our previous Discord bot, we implemented significantly enhanced features, including automatic and manual user management through warnings, bans, kicks, and mutes.
+- **Stable Database:** Thanks to Nicola, we had a database with various CRUD operations and a database connection.
 
-### Herausforderungen
+### Challenges
 
-- API-Komplexität: Die Arbeit mit der Discord-API stellte eine große Herausforderung dar, insbesondere beim Umgang mit API-Tokens und der Rechteverwaltung. Wir haben jedoch wertvolle Erfahrungen im Umgang mit API-basierten Anwendungen gesammelt.
-- Gleichzeitige Benutzeraktionen: Das gleichzeitige Verwalten von Aktionen für mehrere Benutzer, wie das Stummschalten oder Bannen, war komplexer als erwartet. Dies erforderte zusätzliche Massnahmen zur Synchronisation und Fehlerbehandlung.
-- Frontend-Probleme: Obwohl die meisten Probleme im Frontend lösbar waren, stellten sie dennoch einen erheblichen Arbeitsaufwand dar.
-- API-Verlinkung zwischen den Projekten: Wir hatten schon bei dem letzten Discordbot Probleme mit der API-Verlinkung und dieses Mal tauchte es wieder auf. Wir hatten es unterschätzt und es hat viel mehr Aufwand gebraucht. Deswegen konnten wir das Projekt nicht fertigstellen.
+- **API Complexity:** Working with the Discord API was a major challenge, especially when dealing with API tokens and permissions management. However, we gained valuable experience in working with API-based applications.
+- **Simultaneous User Actions:** Managing actions for multiple users simultaneously, such as muting or banning, was more complex than expected. This required additional measures for synchronization and error handling.
+- **Frontend Issues:** Although most issues in the frontend were solvable, they still required significant effort.
+- **API Linking Between Projects:** We had already encountered problems with API linking in the last Discord bot project, and this time it happened again. We underestimated it, and it required much more effort. As a result, we were unable to complete the project.
 
-### Ausblick
+### Outlook
 
-Für zukünftige Projekte haben wir folgende Ziele und Verbesserungsmöglichkeiten vorgeschlagen:
+For future projects, we have suggested the following goals and improvements:
 
-- Weniger Abhängigkeit von Blazor
-- Besser planen und Ziele für jede Woche setzen
-- Refreshers und andere Faktoren bei der Planung beachten
+- Less dependency on Blazor.
+- Better planning and setting goals for each week.
+- Considering refreshers and other factors during planning.
 
-Abschliessend war Randall eine Herausforderung zu programmieren, vor allem im Backend, wo man mit der Discord.net API arbeiten musste und bei der Verlinkung der DB, Frontend und Backend mittels API-Requests. Aber bei der Datenbank lief es gut und im Frontend gab es wenige Probleme, die lösbar waren.
+In conclusion, Randall was a challenge to program, especially in the backend where we had to work with the Discord.net API and link the database, frontend, and backend through API requests. However, the database worked well, and there were only a few solvable problems in the frontend.

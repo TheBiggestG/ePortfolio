@@ -1,0 +1,11 @@
+# Naval Battle Calculator
+
+This Group Project was made in IPT 7.1 during my second year at the IMS.
+
+## Project Description
+
+This project is based on a strategic game known as **HOI4** and seeks to simulate naval battles as well as calculate naval supremacy. These battles are notoriously hard to predict in the game due to the extensive use of complex algorithms. 
+
+The project features:
+- A simple login system where users can create and log in to accounts.
+- A saving and loading system that allows users to recall a saved configuration of their selected naval groups.
