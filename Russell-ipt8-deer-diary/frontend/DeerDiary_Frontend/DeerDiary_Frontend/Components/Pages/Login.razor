@@ -1,0 +1,68 @@
+﻿@page "/login"
+@rendermode InteractiveServer
+@inject HttpClient Http 
+@inject NavigationManager NavigationManager 
+@inject DeerDiary_Frontend.Auth.Token token
+
+
+<div style="background-image: url('/bootstrap/images/deer.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center;" class="login-background">
+    <div class="container-login" style="max-width: 400px; width: 100%; background-color: rgba(0, 0, 0, 0.5); padding: 20px;">
+        <h4 class="text-center mb-4 text-light">Login Page</h4>
+
+        <EditForm Model="@loginModel" OnValidSubmit="HandleLogin" FormName="LoginForm">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+             <!-- Username Field -->
+            <div class="mb-3">
+                <label for="username" class="form-label text-light">Username:</label>
+                <InputText id="username" @bind-Value="loginModel.UserName"  class="form-control" placeholder="Enter your username" />
+            </div>
+
+            <!-- Password Field -->
+            <div class="mb-4">
+                <label for="password" class="form-label text-light">Password:</label>
+                <InputText id="password" type="password" @bind-Value="loginModel.UserPassword" class="form-control" placeholder="Enter your password" />
+            </div> 
+
+            <!-- Login Button -->
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary btn-block">Log In</button>
+            </div>
+
+            <!-- Register Link -->
+            <div class="text-center mt-3">
+                <label class="text-light">Don't have an account? <a href="/register" class="text-primary">Register here</a>.</label>
+            </div>
+        </EditForm> 
+    </div>
+</div>
+
+@code {
+    private LoginUser loginModel = new LoginUser();
+
+
+    private async Task HandleLogin()
+    {
+        var response = await Http.PostAsJsonAsync("https://localhost:7050/auth/login", loginModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            var result = await response.Content.ReadAsStringAsync();
+
+            token._Token = result;
+
+            Console.WriteLine(token._Token);
+
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+
+            var errorstatus = response.StatusCode;
+            var errorMessage = await response.Content.ReadAsStringAsync();
+
+            Console.WriteLine($"Login failed: {errorstatus}, {errorMessage}");
+        }
+    }
+}

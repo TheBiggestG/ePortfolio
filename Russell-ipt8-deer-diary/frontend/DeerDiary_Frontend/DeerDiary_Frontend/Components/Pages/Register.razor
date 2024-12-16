@@ -1,0 +1,63 @@
+﻿@page "/register"
+@rendermode InteractiveServer
+@inject HttpClient Http 
+@inject NavigationManager NavigationManager
+
+<div style="background-image: url('/bootstrap/images/RegisteringDeer.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center;" class="login-background">
+    <div class="container-login" style="max-width: 400px; width: 100%; background-color: rgba(0, 0, 0, 0.5); padding: 20px;">
+        <h4 class="text-center mb-4 text-light">Registration Page</h4>
+
+        <EditForm Model="@registrationModel" OnValidSubmit="HandleRegistration" FormName="RegisterForm">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <!-- Username Field -->
+            <div class="mb-3">
+                <label for="username" class="form-label text-light">Username:</label>
+                <InputText id="username" @bind-Value="registrationModel.UserName" class="form-control" placeholder="Enter your username" />
+            </div>
+
+            <!-- User mail Field -->
+            <div class="mb-4">
+                <label for="Email" class="form-label text-light">E-Mail:</label>
+                <InputText id="Email" @bind-Value="registrationModel.UserMail" class="form-control" placeholder="Enter your E-Mail" />
+            </div>
+
+            <!-- Password Field -->
+            <div class="mb-5">
+                <label for="password" class="form-label text-light">Password:</label>
+                <InputText id="password" type="password" @bind-Value="registrationModel.UserPassword" class="form-control" placeholder="Enter your password" />
+            </div>
+
+            <!-- Register Button -->
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary btn-block">Register</button>
+            </div>
+
+            <!-- Login Link -->
+            <div class="text-center mt-3">
+                <label class="text-light">Have an account? <a href="/login" class="text-primary">Login here</a>.</label>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private RegisterUser registrationModel = new RegisterUser();
+
+    private async Task HandleRegistration()
+    {
+        var response = await Http.PostAsJsonAsync("https://localhost:7050/auth/register", registrationModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo("/login");
+        }
+        else
+        {
+            var errorMessage = await response.Content.ReadAsStringAsync();
+
+            Console.WriteLine($"Registration failed: {errorMessage}");
+        }
+    }
+}
